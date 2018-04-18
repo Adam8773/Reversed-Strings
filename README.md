@@ -1,4 +1,4 @@
-# [<Reversed Strings>](https://www.codewars.com/kata/<Reversed Strings>)
+# [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
 Explain the challenge as completely & clearly as you can.
 
