@@ -1,4 +1,4 @@
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
+# [<Reversed Strings>](https://www.codewars.com/kata/<Reversed Strings>)
 
 Explain the challenge as completely & clearly as you can.
 
